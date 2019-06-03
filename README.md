@@ -39,7 +39,7 @@ There are three open source Redis cluster solution as we known, so why another? 
 	
 ## Architecture
 
-![](doc/kvstore-arch.png)
+![](doc/kvstore-arch.png =500x500)
 
 
 ## Benchmark
