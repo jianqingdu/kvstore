@@ -15,6 +15,7 @@ src/migration_tool/log/
 src/migration_tool/migration_tool
 src/redis_port/redis_port
 src/redis_proxy/redis_proxy
+src/test/test_all
 
 test-env/cs1/config_server
 test-env/cs2/config_server

@@ -5,12 +5,11 @@
 	2. MIGRATE
 	3. MOVE
 	4. OBJECT
-	5. RANDOMKEY
-	6. RENAME
-	7. RENAMENX
-	8. SORT
-	9. WAIT
-	10. SCAN
+	5. RENAME
+	6. RENAMENX
+	7. SORT
+	8. WAIT
+	9. SCAN
 ```
 
 ## strings
@@ -75,5 +74,4 @@
 	1. PING
 	2. QUIT
 	3. SELECT
-	4. RANDOMKEY
 ```
